@@ -16,7 +16,7 @@ A collection of small Python projects as I learn.
 ```bash
 
 python day01multiplication_table.py
-              {or} 
+              or
 py day01multiplication_table.py
 
 
