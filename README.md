@@ -1,22 +1,23 @@
-\# Python Projects
-
+# Python Projects
 
 
 A collection of small Python projects as I learn.
 
 
 
-\## Day 1 — Multiplication Table
+## Day 1 — Multiplication Table
 
-\- \*\*File:\*\* `Day01/multiplication\_table.py`
+- **File:** `Day01/multiplication\_table.py`
 
-\- \*\*What it does:\*\* Prints multiplication tables from 1 to 12 using nested loops.
+- **What it does:** Prints multiplication tables from 1 to 12 using nested loops.
 
-\- \*\*Run:\*\*
+- **Run:**
 
-&nbsp; ```bash
+```bash
 
-&nbsp; python Day01/multiplication\_table.py
+python day01multiplication_table.py
+              {or} 
+py day01multiplication_table.py
 
 
 
